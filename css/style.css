@@ -60,3 +60,8 @@ button {
 p {
   margin-top: 0
 }
+
+img {
+  width: 200%;
+  image-rendering: crisp-edges;
+}
